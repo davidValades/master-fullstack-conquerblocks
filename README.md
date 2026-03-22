@@ -1,66 +1,107 @@
-# 🚀 Máster en Desarrollo Web Full Stack | ConquerBlocks
+# 🚀 Master en Desarrollo Web Full Stack - ConquerBlocks
 
-¡Hola! 👋 Bienvenido/a a mi repositorio principal de aprendizaje y desarrollo. 
-Aquí documento todo mi progreso, ejercicios y proyectos realizados durante el **Máster en Desarrollo Web Full Stack** de ConquerBlocks. Este repositorio funciona como mi portafolio técnico, mostrando mi evolución desde las bases de la informática hasta el desarrollo experto en Frontend y Backend.
+![Banner](https://i.ibb.co/DPWJDvYS/banner.png)
 
-## 🎯 Objetivo del Repositorio
-- 📚 Centralizar apuntes, ejercicios prácticos y código limpio.
-- 🛠️ Demostrar mi capacidad de adaptación a múltiples lenguajes y frameworks (JS, Python, Java, Rust, Go, etc.).
-- 🚀 Mostrar proyectos reales listos para producción.
+¡Hola! 👋 Bienvenido/a a mi repositorio de aprendizaje. 
+
+Aquí documento todo mi progreso, prácticas, proyectos y certificaciones adquiridas durante el **Master en Desarrollo Web Full Stack** impartido por [ConquerBlocks]. Este espacio funciona como mi portafolio continuo, mostrando mi evolución desde las bases de la informática hasta el desarrollo experto tanto en Frontend como en Backend.
 
 ---
 
-## 📂 Estructura del Máster y Tecnologías
+## 🛠️ Tecnologías y Stack
 
-### 🟢 Nivel 1: Prework & Fundamentos
-Bases sólidas para escribir código escalable y eficiente.
-- `Bases de la Informática` | `Pseudocódigo` | `Linux & Terminal`
-- `Python` & `Python Avanzado`
-- `Principios SOLID` | `Git & GitHub`
+A lo largo del máster, he trabajado y dominado las siguientes tecnologías:
 
-### 🟡 Nivel 2: Frontend Core
-Creación de interfaces de usuario interactivas y responsivas.
-- `HTML5` & `CSS3`
-- `JavaScript (ES6+)`
-- `ReactJS` & `TypeScript`
+**Frontend:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-### 🔵 Nivel 3: Backend Core
-Lógica de servidor, bases de datos y despliegue a producción.
-- `Streamlit` | `SQL` | `Django`
-- `WordPress` | `SEO` | `Despliegue (Deploy)`
+**Backend:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🟣 Nivel 4: Frontend Experto
-Dominio de los frameworks modernos más demandados.
-- `ReactJS Avanzado` | `Astro`
-- `Angular` | `Vue.js`
-
-### 🔴 Nivel 5: Backend Experto
-Arquitecturas complejas, rendimiento y lenguajes de bajo/alto nivel.
-- `SQL Avanzado` | `Java`
-- `Node.js` | `Rust` | `Golang`
+**Herramientas & Despliegue:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 💻 Proyectos Destacados
+## 📚 Temario y Estructura del Repositorio (Progreso)
 
-Aquí puedes ver la aplicación práctica de mis conocimientos:
+El contenido está organizado de forma cronológica. Las casillas marcadas indican los módulos que ya he completado.
 
-| Proyecto | Descripción | Tecnologías | Enlace |
-|----------|-------------|-------------|--------|
+<details>
+  <summary><b>📂 00. Prework (Haz clic para expandir)</b></summary>
+  
+  - [x] Bases de la informática
+  - [x] PseudoCodigo
+  - [x] Linux y la terminal
+  - [ ] Python y Python avanzado
+  - [ ] Principios SOLID
+  - [x] Github y Git
+</details>
 
+<details>
+  <summary><b>📂 01. Frontend</b></summary>
+  
+  - [x] HTML
+  - [ ] CSS
+  - [ ] JavaScript
+  - [ ] ReactJS
+  - [ ] TypeScript
+</details>
+
+<details>
+  <summary><b>📂 02. Backend</b></summary>
+  
+  - [ ] StreamLIT
+  - [x] SQL
+  - [ ] Django
+  - [ ] Wordpress
+  - [ ] Despliegue y SEO
+</details>
+
+<details>
+  <summary><b>📂 03. Frontend Experto</b></summary>
+  
+  - [ ] ReactJS Avanzado
+  - [ ] Astro
+  - [ ] Angular
+  - [ ] VueJS
+</details>
+
+<details>
+  <summary><b>📂 04. Backend Experto</b></summary>
+  
+  - [ ] SQL Avanzado
+  - [ ] Java
+  - [ ] Node.js
+  - [ ] Rust
+  - [ ] Golang
+</details>
 
 ---
 
-## 📜 Certificados
+## 💼 Proyectos Destacados
 
-En la carpeta [`/Certificados`](./Certificados) alojo las validaciones oficiales de mis conocimientos adquiridos a lo largo del máster.
+Aquí puedes ver la aplicación real de lo aprendido. (*Añade aquí enlaces directos a las carpetas de tus proyectos o a los sitios web en vivo*).
+
+| Proyecto | Descripción | Tecnologías | Demo / Código |
+| :--- | :--- | :--- | :--- |
+| **** | ---  | --- | --- |
+| **** | --- | --- | --- |
 
 ---
 
-## 📫 Contacto
+## 🎓 Certificados
 
-¿Tienes algún proyecto en mente o buscas un desarrollador Full Stack? ¡Hablemos!
-- **LinkedIn:** [Tu Perfil de LinkedIn](https://linkedin.com/in/david-valadés-navarro-32462988)
-- **Email:** tu.email@ejemplo.com
+Mis logros y certificaciones oficiales obtenidas durante este máster:
 
-> *"Escribiendo código de calidad, una línea a la vez."*
+* 📄 [Certificado Frontend Básico](./Certificados/tu-certificado-1.pdf)
+* 📄 [Certificado Python y Backend](./Certificados/tu-certificado-2.pdf)
+
+---
+
+## 📬 Contacto
+
+Si quieres hablar sobre código, oportunidades profesionales o simplemente conectar:
+
+* **LinkedIn:** [David Valadés Navarro](https://linkedin.com/in/david-valadés-navarro-32462988)
+* **Email:** [davidvaladesnavarro@gmail.com](mailto:davidvaladesnavarro@gmail.com)
+
+---
+*⭐ Si este repositorio te parece útil o interesante, ¡no dudes en darle una estrella!*
