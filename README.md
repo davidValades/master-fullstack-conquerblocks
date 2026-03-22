@@ -2,7 +2,7 @@
 
 ![Banner](https://i.ibb.co/DPWJDvYS/banner.png)
 
-¡Hola! 👋 Bienvenido/a a mi repositorio de aprendizaje. 
+¡Hola! 👋 Bienvenido/a a mi repositorio de aprendizaje.
 
 Aquí documento todo mi progreso, prácticas, proyectos y certificaciones adquiridas durante el **Master en Desarrollo Web Full Stack** impartido por [ConquerBlocks]. Este espacio funciona como mi portafolio continuo, mostrando mi evolución desde las bases de la informática hasta el desarrollo experto tanto en Frontend como en Backend.
 
@@ -78,12 +78,12 @@ El contenido está organizado de forma cronológica. Las casillas marcadas indic
 
 ## 💼 Proyectos Destacados
 
-Aquí puedes ver la aplicación real de lo aprendido. (*Añade aquí enlaces directos a las carpetas de tus proyectos o a los sitios web en vivo*).
+Aquí puedes ver la aplicación real de lo aprendido. (_Añade aquí enlaces directos a las carpetas de tus proyectos o a los sitios web en vivo_).
 
 | Proyecto | Descripción | Tecnologías | Demo / Código |
-| :--- | :--- | :--- | :--- |
-| **** | ---  | --- | --- |
-| **** | --- | --- | --- |
+| :------- | :---------- | :---------- | :------------ |
+| \*\*\*\* | ---         | ---         | ---           |
+| \*\*\*\* | ---         | ---         | ---           |
 
 ---
 
@@ -91,8 +91,9 @@ Aquí puedes ver la aplicación real de lo aprendido. (*Añade aquí enlaces dir
 
 Mis logros y certificaciones oficiales obtenidas durante este máster:
 
-* 📄 [Certificado Frontend Básico](./Certificados/tu-certificado-1.pdf)
-* 📄 [Certificado Python y Backend](./Certificados/tu-certificado-2.pdf)
+- 📄 [Certificado Linux y la Terminal](./Certificados/david-valades-cert-linux-conquerblocks.pdf)
+- 📄 [Certificado HTML](./Certificados/david-valades-cert-html-conquerblocks.pdf)
+- 📄 [Certificado SQL](./Certificados/david-valades-cert-sql-conquerblocks.pdf)
 
 ---
 
@@ -100,8 +101,9 @@ Mis logros y certificaciones oficiales obtenidas durante este máster:
 
 Si quieres hablar sobre código, oportunidades profesionales o simplemente conectar:
 
-* **LinkedIn:** [David Valadés Navarro](https://linkedin.com/in/david-valadés-navarro-32462988)
-* **Email:** [davidvaladesnavarro@gmail.com](mailto:davidvaladesnavarro@gmail.com)
+- **LinkedIn:** [David Valadés Navarro](https://linkedin.com/in/david-valadés-navarro-32462988)
+- **Email:** [davidvaladesnavarro@gmail.com](mailto:davidvaladesnavarro@gmail.com)
 
 ---
-*⭐ Si este repositorio te parece útil o interesante, ¡no dudes en darle una estrella!*
+
+_⭐ Si este repositorio te parece útil o interesante, ¡no dudes en darle una estrella!_
