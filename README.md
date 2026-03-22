@@ -2,9 +2,11 @@
 
 ![Banner](https://i.ibb.co/DPWJDvYS/banner.png)
 
+![Status](https://img.shields.io/badge/Estado-En_Progreso_🚀-2ea44f?style=for-the-badge)
+
 ¡Hola! 👋 Bienvenido/a a mi repositorio de aprendizaje.
 
-Aquí documento todo mi progreso, prácticas, proyectos y certificaciones adquiridas durante el **Master en Desarrollo Web Full Stack** impartido por [ConquerBlocks]. Este espacio funciona como mi portafolio continuo, mostrando mi evolución desde las bases de la informática hasta el desarrollo experto tanto en Frontend como en Backend.
+Aquí documento todo mi progreso, prácticas, proyectos y certificaciones adquiridas durante el **Master en Desarrollo Web Full Stack** impartido por [ConquerBlocks](https://conquerblocks.com).. Este espacio funciona como mi portafolio continuo, mostrando mi evolución desde las bases de la informática hasta el desarrollo experto tanto en Frontend como en Backend.
 
 ---
 
@@ -85,8 +87,7 @@ Aquí puedes ver la aplicación real de lo aprendido. (_Añade aquí enlaces dir
 
 | Proyecto | Descripción | Tecnologías | Demo / Código |
 | :------- | :---------- | :---------- | :------------ |
-| \*\*\*\* | ---         | ---         | ---           |
-| \*\*\*\* | ---         | ---         | ---           |
+| 🚧 **En construcción** | *Pronto subiré aquí mis primeros proyectos del máster.* | `-` | `-` |
 
 ---
 
