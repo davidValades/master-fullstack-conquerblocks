@@ -24,59 +24,59 @@ A lo largo del máster, he trabajado y dominado las siguientes tecnologías:
 
 ## 📚 Temario y Estructura del Repositorio (Progreso)
 
-El contenido está organizado de forma cronológica. Las insignias visuales indican mi avance en cada módulo.
+El contenido está organizado de forma cronológica. Haz clic en cada módulo para acceder a sus apuntes y ejercicios.
 
 <details>
   <summary><b>📂 00. Prework</b> | 🟩🟩🟩🟩🟩⬜⬜ (5/7 Completado)</summary>
   
-  - ✅ Bases de la informática
-  - ✅ PseudoCodigo
-  - ✅ Linux y la terminal
-  - ✅ Python
-  - ⬜ Python avanzado
-  - ⬜ Principios SOLID
-  - ✅ Github y Git
+  - ✅ [Bases de la informática](./00_Prework/01_Bases_Informatica)
+  - ✅ [PseudoCodigo](./00_Prework/02_PseudoCodigo)
+  - ✅ [Linux y la terminal](./00_Prework/03_Linux_Terminal)
+  - ✅ [Python](./00_Prework/04_Python)
+  - ⬜ [Python avanzado](./00_Prework/07_Python_Avanzado)
+  - ⬜ [Principios SOLID](./00_Prework/05_Principios_SOLID)
+  - ✅ [Github y Git](./00_Prework/06_Github_Git)
 </details>
 
 <details>
   <summary><b>📂 01. Frontend</b> | 🟩⬜⬜⬜⬜ (1/5 Completado)</summary>
   
-  - ✅ HTML
-  - ⬜ CSS
-  - ⬜ JavaScript
-  - ⬜ ReactJS
-  - ⬜ TypeScript
+  - ✅ [HTML](./01_Frontend/HTML)
+  - ⬜ [CSS](./01_Frontend/CSS)
+  - ⬜ [JavaScript](./01_Frontend/JavaScript)
+  - ⬜ [ReactJS](./01_Frontend/ReactJS)
+  - ⬜ [TypeScript](./01_Frontend/TypeScript)
 </details>
 
 <details>
   <summary><b>📂 02. Backend</b> | 🟩⬜⬜⬜⬜⬜ (1/6 Completado)</summary>
   
-  - ⬜ StreamLIT
-  - ✅ SQL
-  - ⬜ Django
-  - ⬜ Wordpress
-  - ⬜ Despliegue
-  - ⬜ SEO
+  - ⬜ [StreamLIT](./02_Backend/StreamLIT)
+  - ✅ [SQL](./02_Backend/SQL)
+  - ⬜ [Django](./02_Backend/Django)
+  - ⬜ [Wordpress](./02_Backend/Wordpress)
+  - ⬜ [Despliegue](./02_Backend/Despliegue)
+  - ⬜ [SEO](./02_Backend/SEO)
 </details>
 
 <details>
   <summary><b>📂 03. Frontend Experto</b> | ⬜⬜⬜⬜⬜ (0/5 Completado)</summary>
   
-  - ⬜ ReactJS Básico
-  - ⬜ ReactJS Avanzado
-  - ⬜ Astro
-  - ⬜ Angular
-  - ⬜ VueJS
+  - ⬜ [ReactJS Básico](./03_Frontend_Experto/ReactJS_Basico)
+  - ⬜ [ReactJS Avanzado](./03_Frontend_Experto/ReactJS_Avanzado)
+  - ⬜ [Astro](./03_Frontend_Experto/Astro)
+  - ⬜ [Angular](./03_Frontend_Experto/Angular)
+  - ⬜ [VueJS](./03_Frontend_Experto/VueJS)
 </details>
 
 <details>
   <summary><b>📂 04. Backend Experto</b> | ⬜⬜⬜⬜⬜ (0/5 Completado)</summary>
   
-  - ⬜ SQL Avanzado
-  - ⬜ Java
-  - ⬜ Node.js
-  - ⬜ Rust
-  - ⬜ Golang
+  - ⬜ [SQL Avanzado](./04_Backend_Experto/SQL_Avanzado)
+  - ⬜ [Java](./04_Backend_Experto/Java)
+  - ⬜ [Node.js](./04_Backend_Experto/NodeJS)
+  - ⬜ [Rust](./04_Backend_Experto/Rust)
+  - ⬜ [Golang](./04_Backend_Experto/Golang)
 </details>
 
 ---
