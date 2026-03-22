@@ -52,12 +52,14 @@ El contenido está organizado de forma cronológica. Las casillas marcadas indic
   - [x] SQL
   - [ ] Django
   - [ ] Wordpress
-  - [ ] Despliegue y SEO
+  - [ ] Despliegue
+  - [ ] SEO
 </details>
 
 <details>
   <summary><b>📂 03. Frontend Experto</b></summary>
   
+  - [ ] ReactJS Básico
   - [ ] ReactJS Avanzado
   - [ ] Astro
   - [ ] Angular
