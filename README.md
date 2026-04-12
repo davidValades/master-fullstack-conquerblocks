@@ -47,8 +47,16 @@ El contenido está organizado de forma cronológica. Haz clic en cada módulo pa
 <details>
   <summary><b>📂 01-frontend</b> | 🟩⬜⬜⬜⬜ (1/5 Completado)</summary>
   
-  - [x] [HTML](./01-frontend/html)
-  - [ ] [CSS](./01-frontend/css)
+  - [x] **HTML**
+    - [x] [Apuntes y Ejercicios](./01-frontend/html)
+    - [x] [Proyecto Final: Conquer Academy](./proyectos-destacados/conquer-academy-html)
+  - [ ] **CSS** (En progreso)
+    - [x] [Apuntes y Ejercicios](./01-frontend/css)
+    - [x] [Proyecto 1: SPA Hero Landing](https://github.com/davidValades/spa-hero-landing)
+    - [ ] Proyecto 2: (Pendiente)
+    - [ ] Proyecto 3: (Pendiente)
+    - [ ] Proyecto 4: (Pendiente)
+    - [ ] Proyecto 5: (Pendiente)
   - [ ] [JavaScript](./01-frontend/javascript)
   - [ ] [ReactJS](./01-frontend/reactjs)
   - [ ] [TypeScript](./01-frontend/typescript)
@@ -91,9 +99,10 @@ El contenido está organizado de forma cronológica. Haz clic en cada módulo pa
 
 Aquí puedes ver la aplicación real de lo aprendido.
 
-| Proyecto                                                           | Descripción                                                        | Tecnologías                                                                                             | Demo / Código                                             |
-| :----------------------------------------------------------------- | :----------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------- |
-| **[Conquer Academy](./proyectos-destacados/conquer-academy-html)** | Plataforma académica online enfocada en la arquitectura semántica. | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) | [Ver Código](./proyectos-destacados/conquer-academy-html) |
+| Proyecto                                                                 | Descripción                                                           | Tecnologías                                                                                                                                                                                                | Demo / Código                                                  |
+| :----------------------------------------------------------------------- | :-------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------- |
+| **[Conquer Academy](./proyectos-destacados/conquer-academy-html)**       | Plataforma académica online enfocada en la arquitectura semántica.    | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)                                                                                                    | [Ver Código](./proyectos-destacados/conquer-academy-html)      |
+| **[SPA Hero Landing](https://github.com/davidValades/spa-hero-landing)** | Maquetación Pixel-perfect de un Hero/Header desde un diseño de Figma. | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) | [Ver Código](https://github.com/davidValades/spa-hero-landing) |
 
 ---
 
